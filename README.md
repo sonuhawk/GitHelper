@@ -7,11 +7,13 @@
 `git remote prune origin`
 
 ### Create a new branch and move onto it
-`git pull origin branch_name` (dev)   // Pull changes from `dev`
+`git pull origin branch_name` (dev)   // Pull changes from dev
+
 `git checkout -b branchname`    // Create a new branch and checkout
 
 ### Change name of a local branch
 If you want to rename a branch while pointed to any branch, do:
 `git branch -m <oldname> <newname>`
+
 If you want to rename the current branch, you can do:
 `git branch -m <newname>`
