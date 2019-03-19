@@ -19,3 +19,7 @@ If you want to rename a branch while pointed to any branch, do:
 If you want to rename the current branch, you can do:
 
 `git branch -m <newname>`
+
+### Push code to the remote, same branch currently working in
+
+`git push origin HEAD`
