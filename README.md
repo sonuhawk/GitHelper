@@ -23,3 +23,6 @@ If you want to rename the current branch, you can do:
 ### Push code to the remote, same branch currently working in
 
 `git push origin HEAD`
+
+### Force git pull
+https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files
