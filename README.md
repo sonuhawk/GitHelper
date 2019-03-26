@@ -30,3 +30,9 @@ https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite
 ### List all branch
 
 `git branch -a`
+
+### Unstage file/s on git
+
+`git reset HEAD` (all changes)
+
+`git reset HEAD <file>` (single file changes)
